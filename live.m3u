@@ -3,6 +3,8 @@
 http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8
 #EXTINF:0 group-title="MN Minnesota",WCCO 4 News - Minneapolis - MN Minnesota
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,•----- USA -----•
 http://123iptv.nl:88/live/2kYd4PRkfv/fsqMs9m8pg/1699.ts
 #EXTINF:-1,USA: USA Network HD
