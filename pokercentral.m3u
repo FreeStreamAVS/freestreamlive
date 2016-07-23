@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central 1
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central 2
+http://164.132.168.84:2500/live/basit/basit/2921.ts
