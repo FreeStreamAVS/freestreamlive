@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="TX Texas",KTVT 11 News - Dallas - TX Texas
+http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8
 #EXTINF:0 group-title="MN Minnesota",WCCO 4 News - Minneapolis - MN Minnesota
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8
 #EXTINF:-1,•----- USA -----•
