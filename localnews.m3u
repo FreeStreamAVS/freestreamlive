@@ -3,5 +3,9 @@
 http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8
 #EXTINF:0 group-title="MN Minnesota",WCCO 4 News - Minneapolis - MN Minnesota
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8
-#EXTINF:0 group-title="IL Illinois",WGN 9 News - 19 DT - Chicago - IL Illinois
+#EXTINF:0 group-title="IL Illinois",WGN 9 News - Chicago - IL Illinois
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8
+#EXTINF:0 group-title="NY New York",WCBS 2 News - New York City - NY New York
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+#EXTINF:0 group-title="TX Texas",KPRC Local 2 News - Houston - TX Texas
+http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8
