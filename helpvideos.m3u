@@ -2,11 +2,9 @@
 
 #EXTINF:0 group-title="MN Minnesota",Setup
 https://www.dropbox.com/s/go4otsio8n9or7l/setup.mp4?dl=1
-#EXTINF:0 group-title="MN Minnesota",WCCO 4 News - Minneapolis - MN Minnesota
-http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8
-#EXTINF:0 group-title="IL Illinois",WGN 9 News - Chicago - IL Illinois
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8
-#EXTINF:0 group-title="NY New York",WCBS 2 News - New York City - NY New York
-http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-#EXTINF:0 group-title="TX Texas",KPRC Local 2 News - Houston - TX Texas
-http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8
+#EXTINF:0 group-title="MN Minnesota",Demo
+https://www.dropbox.com/s/hzau1qmh8q0jezk/demohd.mpeg?dl=1
+#EXTINF:0 group-title="IL Illinois",Change TimeZone 
+https://www.dropbox.com/s/uo529usvj3g9xd0/Change%20Time%20Zone.mpeg?dl=1
+#EXTINF:0 group-title="NY New York",Change Resolution
+https://www.dropbox.com/s/6lq6q66y40kaqn4/FreeStream%20Change%20Resolution.mpeg?dl=1
