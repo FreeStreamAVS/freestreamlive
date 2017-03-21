@@ -8,4 +8,4 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8
 #EXTINF:0 group-title="NY New York",WCBS 2 News - New York City - NY New York
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
 #EXTINF:0 group-title="TX Texas",KPRC Local 2 News - Houston - TX Texas
-http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8
+http://149.56.31.188:25461/live/xxxx/xxxx/3170.ts | User-Agent=SPMC/16.5-5 (Linux; Android 6.0.1; x96 Build/MHC19J) Kodi_Fork_SPMC/1.0 Android/6.0.1 Sys_CPU/armv8l App_Bitness/32 Version/16.5-5-Git:2016-12-28-972797d-dirty
